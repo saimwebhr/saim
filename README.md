@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **muhammadsaimhashmi@gmail.com**
 
-- ⚡ Fun fact **I like birds farmining and gardening.**
+- ⚡ Fun fact **I like birds farming and gardening.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
