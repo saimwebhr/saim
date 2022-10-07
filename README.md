@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saim Hashmi</h1>
-<h3 align="center">A passionate Software Engineer(Mobile App Developer) from Pakistan</h3>
+<h3 align="center">A Passionate Software Engineer(Mobile App Developer) from Pakistan</h3>
 
 [![@saimwebhr's Holopin board](https://holopin.io/api/user/board?user=saimwebhr)](https://holopin.io/@saimwebhr)
 
